@@ -4,3 +4,7 @@ zx
 c
 zxc
 zxc
+z
+xc
+zx
+c
